@@ -5,7 +5,7 @@
  * Data: 20/11/2019
 */
 
-const billingCycle = require('./billingCycle')
+const BillingCycle = require('./billingCycle')
 
 BillingCycle.methods(['get', 'post', 'put', 'delete'])
 

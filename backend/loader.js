@@ -5,5 +5,6 @@
  * Data: 20/11/2019
 */
 
-require('./config/server')
+const server = require('./config/server')
 require('./config/database')
+require('./config/routes')(server)
