@@ -1,7 +1,7 @@
 /*
  * Arquivo: contentHeader.js
  * Autor: Paulo Alves
- * Descrição: arquivo responsável pela criação de componente no cabeçalho no dashboard
+ * Descrição: arquivo responsável pela criação de componente do cabeçalho no dashboard
  * Data: 24/11/2019
 */
 
