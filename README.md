@@ -1,5 +1,3 @@
-# Projeto-Ciclo-de-Pagamentos
-
 <h1 align="center">:dollar: Projeto Ciclo de Pagamentos</h1>
 
 <p align="center">
@@ -14,7 +12,7 @@ Repositório de uma aplicação web com o objetivo de organizar as finanças men
 
 No Ciclo de Pagamentos é realizada as operações para listar, inserir, atualiza e excluir registros, que serão organizados em abas com fácil visualização. 
 
-Esse projeto teve sua estrutura desenvolvida com base no curso 
+Código fonte do projeto foi desenvolvido com base no curso 
 [Mongo, Express, Angular 1 e Node - Primeira APP do ZERO!](https://www.udemy.com/course/mean-primeira-aplicacao-do-zero/).
 
 ## :wrench: Recursos Utilizados
