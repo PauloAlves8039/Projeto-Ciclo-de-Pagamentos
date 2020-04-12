@@ -23,6 +23,22 @@ Código fonte do projeto foi desenvolvido com base no curso
 - Gulp.js
 - Template AdminLTE
 
+## :floppy_disk: Instalação
+
+Clonar repositório ```git clone https://github.com/PauloAlves8039/Projeto-Ciclo-de-Pagamentos.git```
+
+### Backend
+
+- Abra a pasta ```Projeto-Ciclo-de-Pagamentos/angular1``` no prompt de comando do Windows.
+- Execute ```npm install``` para instalar os módulos necessários do NodeJs.
+- Execute ```npm run production``` para iniciar o servidor backend ```localhost:3003\```.
+
+### Frontend
+
+- Abra a pasta ```Projeto-Ciclo-de-Pagamentos/backend``` no prompt de comando do Windows.
+- Execute ```npm install``` para instalar os módulos necessários do Gulp.
+- Execute ```npm run dev``` para iniciar o servidor frontend. ```localhost:4000\```.
+
 ## :camera: Screenshot
 ![index](https://github.com/PauloAlves8039/Projeto-Ciclo-de-Pagamento/blob/master/angular1/assets/screenshot/screenshot.png)
 
