@@ -1,4 +1,4 @@
-<h1 align="center">:dollar: Projeto Ciclo de Pagamentos</h1>
+<h1 align="center">:dollar: Ciclo de Pagamentos</h1>
 
 <p align="center">
   <a href="https://code.angularjs.org/1.7.9/docs/api"><img src="https://img.shields.io/badge/AngularJS-v1.7.9-red"></a>
